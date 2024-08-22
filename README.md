@@ -72,6 +72,10 @@ Dialog (rename , delete ,share , savebutton , cancellbutton)
 
 
 
+# Screen recording 
+
+
+![WhatsApp Image 2024-08-22 at 11 55 24_d03c1283](https://github.com/user-attachments/assets/4035cbac-f90d-4625-8ca3-2f4b81d234be)
 
 
 
