@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doc Scanner</string>
+    <string name="scan">"Scan "</string>
+    <string name="rename_pdf">"Rename Pdf"</string>
+    <string name="pdf_name">Pdf name\n</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+</resources>
